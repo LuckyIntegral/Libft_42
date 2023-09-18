@@ -32,19 +32,19 @@ To include the static library while compiling your project, use `-L libft libft.
 
 Makefile has only 5 rules:
 
-1. ** all ** \
+1. **all** \
 Launch `make all` to create a static library called `libft.a` that contains mandatory functions and a bunch of my suctom functions.
 
-2. ** bonus **
+2. **bonus** \
 Launch `make bonus` to create a static library called `libft.a` that contains all of the mandatory functions from subject and a bunch of functions that allow you easily manipulate with linked list structure!
 
-3. ** clean ** \
+3. **clean** \
 Launch `make clean` to remove all .o object files
 
-4. ** flcean **
+4. **flcean** \
 Launch `make flcean` to remove all .o object files, and libft.a file as well!
 
-5. ** re **
+5. **re** \
 Launch `make re` to recompile the whole libft project, it forces to execute `make fclean` and `make all`
 
 ## Functions

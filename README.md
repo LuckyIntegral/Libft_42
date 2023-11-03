@@ -1,4 +1,4 @@
-# Libft: Mt First 42 School Curriculum Project 🚀
+# Libft: My First 42 School Curriculum Project 🚀
 
 Welcome to **Libft** - Your Ultimate Companion for 42 School's Curriculum!
 

@@ -4,13 +4,9 @@ Welcome to **Libft** - Your Ultimate Companion for 42 School's Curriculum!
 
 ## Evaluation
 
-### Francinette
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" alt="drawing" width="170"/>
-
 ### Moulinette
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" alt="drawing" width="170"/>
+<img src="Moulinette.png" alt="drawing" width="800"/>
 
 ## Getting Started
 
